@@ -1,0 +1,14 @@
+# Entorno virtual de Python
+venv/
+__pycache__/
+
+# Archivos del IDE (PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Archivos de sistema operativo
+.DS_Store
+*.swo
+
+# Archivos de log generados por nuestros scripts
+*.log
